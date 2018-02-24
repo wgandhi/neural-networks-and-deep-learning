@@ -17,6 +17,8 @@ As the code is written to accompany the book, I don't intend to add
 new features. However, bug reports are welcome, and you should feel
 free to fork and modify the code.
 
+Idea is to update this library to use pytorch in addition to whatever is implemented for Theano
+
 ## License
 
 MIT License
